@@ -1,0 +1,11 @@
+body {
+    width: 200px;
+}
+
+li {
+    list-style: none outside;
+}
+
+a {
+    text-decoration: none;
+}
